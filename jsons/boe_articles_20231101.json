@@ -1,0 +1,1100 @@
+{
+    "anno": "2023",
+    "fecha": "01/11/2023",
+    "fechaInv": "2023/11/01",
+    "fechaAnt": "31/10/2023",
+    "fechaAntAnt": "30/10/2023",
+    "fechaSig": "02/11/2023",
+    "fechaPub": "mi\u00e9rcoles 1 de noviembre de 2023",
+    "items": [
+        {
+            "epigrafe": "Medicamentos",
+            "departamento": "MINISTERIO DE SANIDAD",
+            "etq": "4335",
+            "seccion": "I. Disposiciones generales",
+            "id": "BOE-A-2023-22303",
+            "control": "2023/22004",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22304",
+            "control": "2023/22360",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Destinos",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22305",
+            "control": "2023/22359",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Destinos",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22306",
+            "control": "2023/22431",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "MINISTERIO DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL",
+            "etq": "9563",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22307",
+            "control": "2023/22364",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22308",
+            "control": "2023/22299",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de la Administraci\u00f3n del Estado",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22309",
+            "control": "2023/21946",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de las Administraciones P\u00fablicas",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22310",
+            "control": "2023/21947",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de administraci\u00f3n local con habilitaci\u00f3n de car\u00e1cter nacional",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22311",
+            "control": "2023/22016",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de administraci\u00f3n local con habilitaci\u00f3n de car\u00e1cter nacional",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22312",
+            "control": "2023/22445",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de la Administraci\u00f3n del Estado",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22313",
+            "control": "2023/22446",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de la Administraci\u00f3n del Estado",
+            "departamento": "MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA",
+            "etq": "9572",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22314",
+            "control": "2023/22375",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de la Administraci\u00f3n del Estado",
+            "departamento": "MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA",
+            "etq": "9572",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22315",
+            "control": "2023/22512",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de las Administraciones P\u00fablicas",
+            "departamento": "MINISTERIO DE TRABAJO Y ECONOM\u00cdA SOCIAL",
+            "etq": "9573",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22316",
+            "control": "2023/22204",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de la Administraci\u00f3n del Estado",
+            "departamento": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACI\u00d3N",
+            "etq": "3120",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22317",
+            "control": "2023/22447",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de las Administraciones P\u00fablicas",
+            "departamento": "MINISTERIO DE POL\u00cdTICA TERRITORIAL",
+            "etq": "9523",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22318",
+            "control": "2023/22514",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de las Administraciones P\u00fablicas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22319",
+            "control": "2023/22113",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de la Administraci\u00f3n del Estado",
+            "departamento": "MINISTERIO DE ASUNTOS ECON\u00d3MICOS Y TRANSFORMACI\u00d3N DIGITAL",
+            "etq": "9576",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22320",
+            "control": "2023/22378",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de la Administraci\u00f3n del Estado",
+            "departamento": "MINISTERIO DE CIENCIA E INNOVACI\u00d3N",
+            "etq": "4245",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22321",
+            "control": "2023/22304",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de la Administraci\u00f3n del Estado",
+            "departamento": "MINISTERIO DE IGUALDAD",
+            "etq": "4620",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22322",
+            "control": "2023/22448",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de la Administraci\u00f3n del Estado",
+            "departamento": "MINISTERIO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES",
+            "etq": "9579",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22323",
+            "control": "2023/21598",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de la Administraci\u00f3n del Estado",
+            "departamento": "MINISTERIO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES",
+            "etq": "9579",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22324",
+            "control": "2023/21599",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de la Administraci\u00f3n del Estado",
+            "departamento": "MINISTERIO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES",
+            "etq": "9579",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22325",
+            "control": "2023/21600",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal laboral",
+            "departamento": "MINISTERIO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES",
+            "etq": "9579",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22326",
+            "control": "2023/22379",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Funcionarios de las Administraciones P\u00fablicas",
+            "departamento": "CONSEJO DE SEGURIDAD NUCLEAR",
+            "etq": "1840",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22327",
+            "control": "2023/22518",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal funcionario",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22328",
+            "control": "2023/100040",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal funcionario",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22329",
+            "control": "2023/22136",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal funcionario",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22330",
+            "control": "2023/22222",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal funcionario",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22331",
+            "control": "2023/22229",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal funcionario",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22332",
+            "control": "2023/22457",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal funcionario",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22333",
+            "control": "2023/22547",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22334",
+            "control": "2023/22212",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22335",
+            "control": "2023/22223",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22336",
+            "control": "2023/22224",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22337",
+            "control": "2023/22227",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22338",
+            "control": "2023/22228",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Personal de administraci\u00f3n y servicios",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22339",
+            "control": "2023/22381",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Comunidad Aut\u00f3noma del Principado de Asturias. Convenio",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22340",
+            "control": "2023/22548",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22341",
+            "control": "2023/22231",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22342",
+            "control": "2023/22232",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22343",
+            "control": "2023/22233",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22344",
+            "control": "2023/22234",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22345",
+            "control": "2023/22235",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22346",
+            "control": "2023/22236",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22347",
+            "control": "2023/22237",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22348",
+            "control": "2023/22238",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22349",
+            "control": "2023/22239",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22350",
+            "control": "2023/22240",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22351",
+            "control": "2023/22241",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22352",
+            "control": "2023/22242",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE DEFENSA",
+            "etq": "6110",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22353",
+            "control": "2023/22246",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Subvenciones",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22354",
+            "control": "2023/22140",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Subvenciones",
+            "departamento": "MINISTERIO DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL",
+            "etq": "9563",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22355",
+            "control": "2023/22560",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Convenios",
+            "departamento": "MINISTERIO DE TRABAJO Y ECONOM\u00cdA SOCIAL",
+            "etq": "9573",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22356",
+            "control": "2023/22565",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Convenios colectivos de trabajo",
+            "departamento": "MINISTERIO DE TRABAJO Y ECONOM\u00cdA SOCIAL",
+            "etq": "9573",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22357",
+            "control": "2023/22265",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Convenios colectivos de trabajo",
+            "departamento": "MINISTERIO DE TRABAJO Y ECONOM\u00cdA SOCIAL",
+            "etq": "9573",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22358",
+            "control": "2023/22267",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA",
+            "etq": "9574",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22359",
+            "control": "2023/22600",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Energ\u00eda el\u00e9ctrica",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22360",
+            "control": "2023/22161",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Energ\u00eda el\u00e9ctrica",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22361",
+            "control": "2023/22279",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Impacto ambiental",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22362",
+            "control": "2023/22153",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Impacto ambiental",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22363",
+            "control": "2023/22162",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22364",
+            "control": "2023/22156",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22365",
+            "control": "2023/22157",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22366",
+            "control": "2023/22272",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22367",
+            "control": "2023/22273",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22368",
+            "control": "2023/22274",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22369",
+            "control": "2023/22275",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22370",
+            "control": "2023/22276",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22371",
+            "control": "2023/22277",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22372",
+            "control": "2023/22278",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22373",
+            "control": "2023/22163",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22374",
+            "control": "2023/22280",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22375",
+            "control": "2023/22281",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22376",
+            "control": "2023/22282",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22377",
+            "control": "2023/22283",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Deuda del Estado",
+            "departamento": "MINISTERIO DE ASUNTOS ECON\u00d3MICOS Y TRANSFORMACI\u00d3N DIGITAL",
+            "etq": "9576",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22378",
+            "control": "2023/22588",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Deuda del Estado",
+            "departamento": "MINISTERIO DE ASUNTOS ECON\u00d3MICOS Y TRANSFORMACI\u00d3N DIGITAL",
+            "etq": "9576",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22379",
+            "control": "2023/22589",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Deuda del Estado",
+            "departamento": "MINISTERIO DE ASUNTOS ECON\u00d3MICOS Y TRANSFORMACI\u00d3N DIGITAL",
+            "etq": "9576",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22380",
+            "control": "2023/22590",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Deuda del Estado",
+            "departamento": "MINISTERIO DE ASUNTOS ECON\u00d3MICOS Y TRANSFORMACI\u00d3N DIGITAL",
+            "etq": "9576",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22381",
+            "control": "2023/22591",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Deuda del Estado",
+            "departamento": "MINISTERIO DE ASUNTOS ECON\u00d3MICOS Y TRANSFORMACI\u00d3N DIGITAL",
+            "etq": "9576",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22382",
+            "control": "2023/22592",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Deuda del Estado",
+            "departamento": "MINISTERIO DE ASUNTOS ECON\u00d3MICOS Y TRANSFORMACI\u00d3N DIGITAL",
+            "etq": "9576",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22383",
+            "control": "2023/22593",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Deuda del Estado",
+            "departamento": "MINISTERIO DE ASUNTOS ECON\u00d3MICOS Y TRANSFORMACI\u00d3N DIGITAL",
+            "etq": "9576",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22384",
+            "control": "2023/22594",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Comunidad Aut\u00f3noma de Catalu\u00f1a. Convenio",
+            "departamento": "MINISTERIO DE SANIDAD",
+            "etq": "4335",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22385",
+            "control": "2023/22351",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Premios",
+            "departamento": "MINISTERIO DE CIENCIA E INNOVACI\u00d3N",
+            "etq": "4245",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22386",
+            "control": "2023/22485",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Elecciones locales. Resultados",
+            "departamento": "JUNTA ELECTORAL CENTRAL",
+            "etq": "1310",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22387",
+            "control": "2023/22596",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Mercado de divisas",
+            "departamento": "BANCO DE ESPA\u00d1A",
+            "etq": "1020",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22388",
+            "control": "2023/22597",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Delegaci\u00f3n de competencias",
+            "departamento": "CONSEJO DE SEGURIDAD NUCLEAR",
+            "etq": "1840",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22389",
+            "control": "2023/22288",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Bienes de inter\u00e9s cultural",
+            "departamento": "COMUNIDAD DE CASTILLA Y LE\u00d3N",
+            "etq": "9531",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22390",
+            "control": "2023/22292",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22391",
+            "control": "2023/21900",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22392",
+            "control": "2023/21901",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22393",
+            "control": "2023/21902",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22394",
+            "control": "2023/21903",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22395",
+            "control": "2023/21904",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22396",
+            "control": "2023/21905",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22397",
+            "control": "2023/21906",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22398",
+            "control": "2023/21907",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22399",
+            "control": "2023/21908",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22400",
+            "control": "2023/21909",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22401",
+            "control": "2023/21910",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22402",
+            "control": "2023/21911",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22403",
+            "control": "2023/21912",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22404",
+            "control": "2023/21913",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22405",
+            "control": "2023/21914",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22406",
+            "control": "2023/21915",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22407",
+            "control": "2023/21916",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22408",
+            "control": "2023/21917",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22409",
+            "control": "2023/21918",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22410",
+            "control": "2023/21919",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22411",
+            "control": "2023/21920",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22412",
+            "control": "2023/21921",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22413",
+            "control": "2023/21922",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22414",
+            "control": "2023/21923",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22415",
+            "control": "2023/21924",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22416",
+            "control": "2023/21925",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22417",
+            "control": "2023/21926",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22418",
+            "control": "2023/21927",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22419",
+            "control": "2023/21928",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22420",
+            "control": "2023/21929",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22421",
+            "control": "2023/21930",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22422",
+            "control": "2023/21931",
+            "sumario_id": "BOE-S-2023-261"
+        },
+        {
+            "epigrafe": "Sentencias",
+            "departamento": "TRIBUNAL CONSTITUCIONAL",
+            "etq": "1410",
+            "seccion": "T.C. Secci\u00f3n del Tribunal Constitucional",
+            "id": "BOE-A-2023-22423",
+            "control": "2023/21932",
+            "sumario_id": "BOE-S-2023-261"
+        }
+    ]
+}

@@ -13,10 +13,6 @@ import xml.etree.ElementTree as ET
 import json
 
 
-def get_xml_filenames(data_dir):
-    xml_files = [os.path.splitext(f)[0] for f in os.listdir(data_dir) if f.endswith('.xml')]
-    return xml_files
-
 
 def download_boe_articles(start_date, end_date=None):
     base_url = 'https://boe.es/diario_boe/xml.php?id=BOE-S-'
@@ -51,15 +47,22 @@ def download_boe_articles(start_date, end_date=None):
 
         current_date += one_day
 
+def get_xml_filenames(data_dir):
+    xml_files = [os.path.splitext(f)[0] for f in os.listdir(data_dir) if f.endswith('.xml')]
+    return xml_files
+
 
 def extract_info_from_xml(xml_file, json_output_file):
     tree = ET.parse(xml_file)
     root = tree.getroot()
 
+    # god forgive me for the following 2 lines:
     if root.tag == 'error':
-        pass
+        return
 
     result = []
+
+    sumario_id = root.find(".//sumario_nbo").get("id") if root.find(".//sumario_nbo") is not None else None
 
     for seccion in root.findall(".//seccion"):
         for departamento in seccion.findall(".//departamento"):
@@ -79,6 +82,7 @@ def extract_info_from_xml(xml_file, json_output_file):
                         "seccion": seccion_nombre,
                         "id": item_id,
                         "control": item_control,
+                        'sumario_id': sumario_id
                     }
 
                     result.append(item_info)

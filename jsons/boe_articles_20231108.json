@@ -1,0 +1,632 @@
+{
+    "anno": "2023",
+    "fecha": "08/11/2023",
+    "fechaInv": "2023/11/08",
+    "fechaAnt": "07/11/2023",
+    "fechaAntAnt": "06/11/2023",
+    "fechaSig": "09/11/2023",
+    "fechaPub": "mi\u00e9rcoles 8 de noviembre de 2023",
+    "items": [
+        {
+            "epigrafe": "Seguridad Social",
+            "departamento": "MINISTERIO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES",
+            "etq": "9579",
+            "seccion": "I. Disposiciones generales",
+            "id": "BOE-A-2023-22691",
+            "control": "2023/22724",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Destinos",
+            "departamento": "MINISTERIO DE ASUNTOS EXTERIORES, UNI\u00d3N EUROPEA Y COOPERACI\u00d3N",
+            "etq": "9562",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22692",
+            "control": "2023/22800",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22693",
+            "control": "2023/22803",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22694",
+            "control": "2023/22804",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Destinos",
+            "departamento": "MINISTERIO DEL INTERIOR",
+            "etq": "7320",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22695",
+            "control": "2023/22725",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "MINISTERIO DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL",
+            "etq": "9563",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22696",
+            "control": "2023/22650",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "MINISTERIO DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL",
+            "etq": "9563",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22697",
+            "control": "2023/22651",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "MINISTERIO DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL",
+            "etq": "9563",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22698",
+            "control": "2023/22726",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Integraciones",
+            "departamento": "MINISTERIO DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL",
+            "etq": "9563",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22699",
+            "control": "2023/22652",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Destinos",
+            "departamento": "MINISTERIO DE INDUSTRIA, COMERCIO Y TURISMO",
+            "etq": "5250",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22700",
+            "control": "2023/22733",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Destinos",
+            "departamento": "MINISTERIO DE INDUSTRIA, COMERCIO Y TURISMO",
+            "etq": "5250",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22701",
+            "control": "2023/22734",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Ceses",
+            "departamento": "MINISTERIO FISCAL",
+            "etq": "4510",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22702",
+            "control": "2023/22657",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22703",
+            "control": "2023/22502",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22704",
+            "control": "2023/22503",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22705",
+            "control": "2023/22504",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22706",
+            "control": "2023/22505",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22707",
+            "control": "2023/22506",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22708",
+            "control": "2023/22507",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22709",
+            "control": "2023/22508",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22710",
+            "control": "2023/22510",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22711",
+            "control": "2023/22605",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22712",
+            "control": "2023/22607",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22713",
+            "control": "2023/22610",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22714",
+            "control": "2023/22611",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22715",
+            "control": "2023/22612",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Nombramientos",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22716",
+            "control": "2023/22658",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Personal laboral",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22717",
+            "control": "2023/22826",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22718",
+            "control": "2023/22052",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22719",
+            "control": "2023/22850",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Cuerpos docentes universitarios",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22720",
+            "control": "2023/22667",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Personal de administraci\u00f3n y servicios",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22721",
+            "control": "2023/22666",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Comunidad Aut\u00f3noma de las Illes Balears. Convenio",
+            "departamento": "MINISTERIO DE JUSTICIA",
+            "etq": "4810",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22722",
+            "control": "2023/22683",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Comunidad Aut\u00f3noma de Andaluc\u00eda. Convenio",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22723",
+            "control": "2023/22894",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Comunidad Aut\u00f3noma de Catalu\u00f1a. Convenio",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22724",
+            "control": "2023/22897",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Comunidad Aut\u00f3noma de Catalu\u00f1a. Convenio",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22725",
+            "control": "2023/22898",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Comunidad Aut\u00f3noma de Galicia. Convenio",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22726",
+            "control": "2023/22900",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22727",
+            "control": "2023/22691",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22728",
+            "control": "2023/22692",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22729",
+            "control": "2023/22693",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22730",
+            "control": "2023/22694",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DEL INTERIOR",
+            "etq": "7320",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22731",
+            "control": "2023/22553",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DEL INTERIOR",
+            "etq": "7320",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22732",
+            "control": "2023/22554",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DEL INTERIOR",
+            "etq": "7320",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22733",
+            "control": "2023/22555",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Sanciones",
+            "departamento": "MINISTERIO DEL INTERIOR",
+            "etq": "7320",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22734",
+            "control": "2023/22556",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios colectivos de trabajo",
+            "departamento": "MINISTERIO DE TRABAJO Y ECONOM\u00cdA SOCIAL",
+            "etq": "9573",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22735",
+            "control": "2023/22561",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios colectivos de trabajo",
+            "departamento": "MINISTERIO DE TRABAJO Y ECONOM\u00cdA SOCIAL",
+            "etq": "9573",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22736",
+            "control": "2023/22566",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios colectivos de trabajo",
+            "departamento": "MINISTERIO DE TRABAJO Y ECONOM\u00cdA SOCIAL",
+            "etq": "9573",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22737",
+            "control": "2023/22567",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios colectivos de trabajo",
+            "departamento": "MINISTERIO DE TRABAJO Y ECONOM\u00cdA SOCIAL",
+            "etq": "9573",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22738",
+            "control": "2023/22568",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios colectivos de trabajo",
+            "departamento": "MINISTERIO DE TRABAJO Y ECONOM\u00cdA SOCIAL",
+            "etq": "9573",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22739",
+            "control": "2023/22569",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios colectivos de trabajo",
+            "departamento": "MINISTERIO DE TRABAJO Y ECONOM\u00cdA SOCIAL",
+            "etq": "9573",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22740",
+            "control": "2023/22570",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Normalizaci\u00f3n",
+            "departamento": "MINISTERIO DE INDUSTRIA, COMERCIO Y TURISMO",
+            "etq": "5250",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22741",
+            "control": "2023/22779",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Normalizaci\u00f3n",
+            "departamento": "MINISTERIO DE INDUSTRIA, COMERCIO Y TURISMO",
+            "etq": "5250",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22742",
+            "control": "2023/22780",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Normalizaci\u00f3n",
+            "departamento": "MINISTERIO DE INDUSTRIA, COMERCIO Y TURISMO",
+            "etq": "5250",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22743",
+            "control": "2023/22781",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Normalizaci\u00f3n",
+            "departamento": "MINISTERIO DE INDUSTRIA, COMERCIO Y TURISMO",
+            "etq": "5250",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22744",
+            "control": "2023/22782",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Normalizaci\u00f3n",
+            "departamento": "MINISTERIO DE INDUSTRIA, COMERCIO Y TURISMO",
+            "etq": "5250",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22745",
+            "control": "2023/22783",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA",
+            "etq": "9574",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22746",
+            "control": "2023/22696",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Impacto ambiental",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22747",
+            "control": "2023/22576",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Impacto ambiental",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22748",
+            "control": "2023/22583",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22749",
+            "control": "2023/22637",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22750",
+            "control": "2023/22579",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22751",
+            "control": "2023/22580",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22752",
+            "control": "2023/22581",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Instalaciones el\u00e9ctricas",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22753",
+            "control": "2023/22582",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Materiales forestales de reproducci\u00f3n",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22754",
+            "control": "2023/22574",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios",
+            "departamento": "MINISTERIO DE DERECHOS SOCIALES Y AGENDA 2030",
+            "etq": "9577",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22755",
+            "control": "2023/22918",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Recursos",
+            "departamento": "MINISTERIO DE DERECHOS SOCIALES Y AGENDA 2030",
+            "etq": "9577",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22756",
+            "control": "2023/22702",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios",
+            "departamento": "MINISTERIO DE CIENCIA E INNOVACI\u00d3N",
+            "etq": "4245",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22757",
+            "control": "2023/22703",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Convenios",
+            "departamento": "MINISTERIO DE CIENCIA E INNOVACI\u00d3N",
+            "etq": "4245",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22758",
+            "control": "2023/22707",
+            "sumario_id": "BOE-S-2023-267"
+        },
+        {
+            "epigrafe": "Mercado de divisas",
+            "departamento": "BANCO DE ESPA\u00d1A",
+            "etq": "1020",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22759",
+            "control": "2023/22924",
+            "sumario_id": "BOE-S-2023-267"
+        }
+    ]
+}

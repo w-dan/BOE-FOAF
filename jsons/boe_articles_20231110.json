@@ -1,0 +1,461 @@
+{
+    "anno": "2023",
+    "fecha": "10/11/2023",
+    "fechaInv": "2023/11/10",
+    "fechaAnt": "09/11/2023",
+    "fechaAntAnt": "08/11/2023",
+    "fechaSig": null,
+    "fechaPub": "viernes 10 de noviembre de 2023",
+    "items": [
+        {
+            "epigrafe": "Tratados internacionales",
+            "departamento": "MINISTERIO DE ASUNTOS EXTERIORES, UNI\u00d3N EUROPEA Y COOPERACI\u00d3N",
+            "etq": "9562",
+            "seccion": "I. Disposiciones generales",
+            "id": "BOE-A-2023-22804",
+            "control": "2023/22723",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Subvenciones",
+            "departamento": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACI\u00d3N",
+            "etq": "3120",
+            "seccion": "I. Disposiciones generales",
+            "id": "BOE-A-2023-22805",
+            "control": "2023/23044",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Animales. Identificaci\u00f3n y registro",
+            "departamento": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACI\u00d3N",
+            "etq": "3120",
+            "seccion": "I. Disposiciones generales",
+            "id": "BOE-A-2023-22806",
+            "control": "2023/23045",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal laboral",
+            "departamento": "MINISTERIO DE CULTURA Y DEPORTE",
+            "etq": "9570",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22807",
+            "control": "2023/22935",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal laboral",
+            "departamento": "MINISTERIO DE CIENCIA E INNOVACI\u00d3N",
+            "etq": "4245",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22808",
+            "control": "2023/22937",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Destinos",
+            "departamento": "COMUNIDAD AUT\u00d3NOMA DE GALICIA",
+            "etq": "8090",
+            "seccion": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+            "id": "BOE-A-2023-22809",
+            "control": "2023/22825",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Cuerpo Superior de Inspectores de Hacienda del Estado",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22810",
+            "control": "2023/22952",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Funcionarios de administraci\u00f3n local con habilitaci\u00f3n de car\u00e1cter nacional",
+            "departamento": "MINISTERIO DE HACIENDA Y FUNCI\u00d3N P\u00daBLICA",
+            "etq": "9279",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22811",
+            "control": "2023/22953",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Funcionarios de los Subgrupos A1, A2, C1 y C2",
+            "departamento": "MINISTERIO DE CONSUMO",
+            "etq": "9578",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22812",
+            "control": "2023/22743",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Funcionarios de Administraci\u00f3n Local",
+            "departamento": "COMUNIDAD AUT\u00d3NOMA DE GALICIA",
+            "etq": "8090",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22813",
+            "control": "2023/22838",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22814",
+            "control": "2023/22748",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22815",
+            "control": "2023/22749",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22816",
+            "control": "2023/22751",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22817",
+            "control": "2023/22752",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22818",
+            "control": "2023/22970",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22819",
+            "control": "2023/22753",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22820",
+            "control": "2023/22754",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22821",
+            "control": "2023/22755",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22822",
+            "control": "2023/22756",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22823",
+            "control": "2023/22856",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22824",
+            "control": "2023/22757",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22825",
+            "control": "2023/22758",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22826",
+            "control": "2023/22759",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22827",
+            "control": "2023/22761",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22828",
+            "control": "2023/22764",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22829",
+            "control": "2023/22765",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22830",
+            "control": "2023/22766",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22831",
+            "control": "2023/22767",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22832",
+            "control": "2023/22769",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22833",
+            "control": "2023/22770",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22834",
+            "control": "2023/22771",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22835",
+            "control": "2023/22772",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22836",
+            "control": "2023/22773",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22837",
+            "control": "2023/22774",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22838",
+            "control": "2023/22995",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Personal funcionario y laboral",
+            "departamento": "ADMINISTRACI\u00d3N LOCAL",
+            "etq": "9525",
+            "seccion": "II. Autoridades y personal. - B. Oposiciones y concursos",
+            "id": "BOE-A-2023-22839",
+            "control": "2023/22987",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Impacto ambiental",
+            "departamento": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACI\u00d3N",
+            "etq": "3120",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22840",
+            "control": "2023/22909",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Impacto ambiental",
+            "departamento": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACI\u00d3N",
+            "etq": "3120",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22841",
+            "control": "2023/22910",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Impacto ambiental",
+            "departamento": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACI\u00d3N",
+            "etq": "3120",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22842",
+            "control": "2023/22911",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Impacto ambiental",
+            "departamento": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACI\u00d3N",
+            "etq": "3120",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22843",
+            "control": "2023/22912",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Impacto ambiental",
+            "departamento": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACI\u00d3N",
+            "etq": "3120",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22844",
+            "control": "2023/22913",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Hidrocarburos. Permisos de investigaci\u00f3n",
+            "departamento": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+            "etq": "9575",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22845",
+            "control": "2023/22914",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Comunidad Aut\u00f3noma de la Regi\u00f3n de Murcia. Convenio",
+            "departamento": "MINISTERIO DE DERECHOS SOCIALES Y AGENDA 2030",
+            "etq": "9577",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22846",
+            "control": "2023/23022",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Planes de estudios",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22847",
+            "control": "2023/22644",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Planes de estudios",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22848",
+            "control": "2023/22715",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Planes de estudios",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22849",
+            "control": "2023/22716",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Planes de estudios",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22850",
+            "control": "2023/22717",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Planes de estudios",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22851",
+            "control": "2023/22718",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Planes de estudios",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22852",
+            "control": "2023/22719",
+            "sumario_id": "BOE-S-2023-269"
+        },
+        {
+            "epigrafe": "Planes de estudios",
+            "departamento": "UNIVERSIDADES",
+            "etq": "310",
+            "seccion": "III. Otras disposiciones",
+            "id": "BOE-A-2023-22853",
+            "control": "2023/22720",
+            "sumario_id": "BOE-S-2023-269"
+        }
+    ]
+}
