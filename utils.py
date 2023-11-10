@@ -124,7 +124,10 @@ def get_item_info(item_id):
         }
 
         for texto in root.findall(".//texto/p"):
-            data["articulos"].append(texto.text)
+            if texto.text is not None:
+                data["articulos"].append(texto.text)
+
+        data["articulos"] = "\n".join(data["articulos"])
 
         for materia in root.findall(".//materia"):
             data["materias"].append(materia.text)
