@@ -68,6 +68,7 @@ def extract_info_from_xml(xml_file, json_output_file):
         for departamento in seccion.findall(".//departamento"):
             for epigrafe in departamento.findall(".//epigrafe"):
                 for item in epigrafe.findall(".//item"):
+                    
                     epigrafe_nombre = epigrafe.get("nombre")
                     departamento_nombre = departamento.get("nombre")
                     departamento_etq = departamento.get("etq")
@@ -93,14 +94,17 @@ def extract_info_from_xml(xml_file, json_output_file):
         if element is not None:
             info_dict[field] = element.text
 
-    if result:
-        info_dict["items"] = result
-        ITEM_LIST.append(item_id)
+    info_dict["sumario_id"] = sumario_id
 
-    with open(json_output_file, 'w') as json_file:
-        print(f'[✅] Successfully created JSON from {xml_file}')
+    with open(f'summary_{json_output_file}', 'w') as json_file:
+        print(f'[✅] Successfully created summary metadata JSON from {xml_file}')
         json.dump(info_dict, json_file, indent=4)
 
+    with open(f'item_{json_output_file}', 'a') as json_file:
+        print(f'[✅] Successfully created item JSON from {xml_file}')
+        json.dump(result, json_file, indent=4)
+
+    return result
 
 
 def get_item_info(item_id):
@@ -132,7 +136,7 @@ def get_item_info(item_id):
         for materia in root.findall(".//materia"):
             data["materias"].append(materia.text)
 
-        with open(f"{item_id}.json", "w", encoding="utf-8") as json_file:
+        with open(f"./articles/{item_id}.json", "w", encoding="utf-8") as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
         return data
     else:
