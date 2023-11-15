@@ -10,8 +10,6 @@ Repository for GESTBD hackathon. The initial idea of this project is to fetch or
 
 The following workflow represents the usage of this application. It is devided on three main blocks, the first one is the gathering of information, with this we generate the data on json format to use [OpenRefine](https://openrefine.org/) software in order to connect via Ontologies and thus combine with information from other pages like [DBpedia](https://es.dbpedia.org/) in order to gather more information. The last step is to expose this information to a better search for the user.
 
-![Separate Workflows](./docs/workflow.png)
-
 ### Gather information
 
 The basic part of this step is the gathering of data from [BOE page](https://www.boe.es/index.php). To fulfill this firstly a connection is created to the web via this [URL](https://boe.es/diario_boe/xml.php?id=BOE-S). Once connected the next step is to download the bulletin which contains information about the resolutions of the *DD/MM/YYYY*. Once the bulletin is downloaded, all the metadata and other information about it is recollected and expressed on several jsons:
@@ -33,19 +31,14 @@ The basic part of this step is the gathering of data from [BOE page](https://www
 
 In order to create a knowledge graph where any information can be gathered, about any specific data. [OpenRefine](https://openrefine.org/) helps with this task, even though in this case it is used manually, the process is very simple. Once the json files have been uploaded, the first step is to select the column which we want to gather more information.
 
-%%%%%%%%%%%%%%%%%%%%%%%% TODO %%%%%%%%%%%%%%%%%%%%%%%
-% Falta la parte de sincronizar la info con DBPedia %
-% Y luego continuar con el export a ttl             %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+On the other hand, [OpenRefine](https://openrefine.org/) has not been fully useful for this part of the project since there were errors when using it and merging with [dbpedia](https://es.dbpedia.org/) knowledge graph. So another aproach was taken, using **rdflib** to generate the knowledge graph using the [ontology](./ontology/boe.owl). This process is very useful to then use [graphdb](https://www.ontotext.com/products/graphdb/) and show the knowledge graph. Although there is a drawback because in this case there is no connection with other ontologies, but nevertheless it can be done as a future advancement.
 
-![Ontology part](./docs/workflow_ontology.png)
+With the knowledge graph, a `.ttl` file is generated which represents it.
 
-### Elastik
+### Elastic
 
-Elastiksearch is a **NoSQL** technology that alows to store, search and analyze data. The way data is inserted is via **indexation**, this engine is made based on Apache. It can be scale out horizontally or vertically.
+Elasticsearch is a **NoSQL** technology that alows to store, search and analyze data. The way data is inserted is via **indexation**, this engine is made based on Apache. It can be scale out horizontally or vertically. Use the [notebook](./elastic.ipynb) to see all that can be done.
 
-%% TODO : Cómo se va a indexar
+There are more things that can be done with this database, and one is the **semantic search**, which we encourage readers to try and get it done.
 
-The first step is to connect to ElastikSearch, then index the data so that it can be searched.
-
-![Elastik search part](./docs/workflow_elastik.png)
+![Elastik search part](./docs/workflow_elasticsearch.png)
