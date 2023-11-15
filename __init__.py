@@ -1,38 +1,53 @@
-from utils import extract_info_from_xml, download_boe_articles, get_xml_filenames, get_item_info
+from utils import (
+    extract_info_from_xml,
+    download_boe_articles,
+    get_xml_filenames,
+    get_item_info,
+    get_ttl_from_ontology,
+)
 from datetime import datetime, timedelta
-from constants import ITEM_LIST
-import os, shutil
+import os, glob
 
 if __name__ == "__main__":
+    summary_list = []
+    items_list = []
+    article_list = []
 
     """
         STEP 0
         Setup folders
     """
-    folders = ['articles', 'data', 'item_jsons', 'summary_jsons']
+    folders = ["data/articles", "data/raw", "data/item_jsons", "data/summary_jsons"]
+
+    clean = input("[🗑️] Do you want to clean directories previously? (yes|no): ")
+    clean = clean == "yes"
 
     # create if they don't exist
     for folder in folders:
         folder_route = os.path.join("./", folder)
         if not os.path.exists(folder_route):
             os.makedirs(folder_route)
-            print(f'[📁] Successfully created {folders} folder')
-
+            print(f"[📁] Successfully created {folder} folder")
+        if clean:
+            files = glob.glob(os.path.join(folder, "*"))
+            for f in files:
+                os.remove(f)
 
     """
         STEP 1
         Get dates to retrieve bulletins
     """
     start_date = input("[📅] Enter the start date (YYYYMMDD): ")
-    end_date_input = input("[📅] Enter the end date (YYYYMMDD, or press Enter to use today): ")
+    end_date_input = input(
+        "[📅] Enter the end date (YYYYMMDD, or press Enter to use today): "
+    )
 
-    start_date = datetime.strptime(start_date, '%Y%m%d')
+    start_date = datetime.strptime(start_date, "%Y%m%d")
 
     if end_date_input:
-        end_date = datetime.strptime(end_date_input, '%Y%m%d')
+        end_date = datetime.strptime(end_date_input, "%Y%m%d")
     else:
         end_date = None
-
 
     """
         STEP 2
@@ -40,18 +55,27 @@ if __name__ == "__main__":
     """
     download_boe_articles(start_date, end_date)
 
-
-    xml_filenames = get_xml_filenames('data')
+    xml_filenames = get_xml_filenames("data/raw")
 
     for filename in xml_filenames:
-        ITEM_LIST.append(extract_info_from_xml(f'data/{filename}.xml', f'jsons/{filename}.json'))
-
+        summary, items = extract_info_from_xml(
+            f"data/raw/{filename}.xml", f"jsons/{filename}.json"
+        )
+        summary_list.append(summary)
+        items_list.extend(items)
 
     """
         STEP 3
         Get detailed information for each item in every bulletin
     """
-    for i in ITEM_LIST:
-        for item in i:
-            item_id = item["id"]
-            get_item_info(item_id)
+    for item in items_list:
+        item_id = item["item_id"]
+        if article := get_item_info(item_id):
+            article_list.append(article)
+
+    """
+        STEP 4
+        Get ttl from extracted data based on the ontology
+    """
+    ttl = get_ttl_from_ontology(summary_list, items_list, article_list)
+    print(ttl)

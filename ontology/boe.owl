@@ -1,0 +1,98 @@
+@prefix boe: <http://example.org/boe#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+
+# Clases
+boe:Sumario rdf:type owl:Class.
+boe:Seccion rdf:type owl:Class.
+boe:Departamento rdf:type owl:Class.
+boe:Epigrafe rdf:type owl:Class.
+boe:Item rdf:type owl:Class.
+boe:Articulo rdf:type owl:Class.
+
+# Propiedades
+boe:anno rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Sumario;
+    rdfs:range xsd:gYear.
+
+boe:fecha rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Sumario;
+    rdfs:range xsd:date.
+
+boe:fechaInv rdf:type owl:DatatypeProperty;
+    owl:subPropertyOf boe:fecha.
+
+boe:fechaAnt rdf:type owl:DatatypeProperty;
+    owl:subPropertyOf boe:fecha.
+
+boe:fechaAntAnt rdf:type owl:DatatypeProperty;
+    owl:subPropertyOf boe:fecha.
+
+boe:fechaSig rdf:type owl:DatatypeProperty;
+    owl:subPropertyOf boe:fecha.
+
+boe:fechaPub rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Sumario;
+    rdfs:range xsd:string.
+
+boe:sumarioID rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Sumario;
+    rdfs:range xsd:string.
+
+boe:contieneItem rdf:type owl:ObjectProperty;
+    rdfs:domain boe:Sumario;
+    rdfs:range boe:Item.
+
+boe:nombre rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Seccion, boe:Departamento, boe:Epigrafe;
+    rdfs:range xsd:string.
+
+boe:etq rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Departamento, boe:Epigrafe;
+    rdfs:range xsd:string.
+
+boe:itemID rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Item;
+    rdfs:range xsd:string.
+
+boe:control rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Item;
+    rdfs:range xsd:string.
+
+boe:titulo rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Item;
+    rdfs:range xsd:string. 
+
+boe:urlPdf rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Item;
+    rdfs:range xsd:anyURI.
+
+boe:urlHtm rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Item;
+    rdfs:range xsd:anyURI.
+
+boe:urlXml rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Item;
+    rdfs:range xsd:anyURI.
+
+boe:contieneArticulo rdf:type owl:ObjectProperty;
+    rdfs:domain boe:Item;
+    rdfs:range boe:Articulo.
+
+boe:origenLegislativo rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Articulo;
+    rdfs:range xsd:string.
+
+boe:fechaPublicacion rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Articulo;
+    rdfs:range xsd:date.
+
+boe:diarioNumero rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Articulo;
+    rdfs:range xsd:string.
+
+boe:materias rdf:type owl:DatatypeProperty;
+    rdfs:domain boe:Articulo;
+    rdfs:range xsd:string.
