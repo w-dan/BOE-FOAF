@@ -58,11 +58,14 @@ if __name__ == "__main__":
     xml_filenames = get_xml_filenames("data/raw")
 
     for filename in xml_filenames:
-        summary, items = extract_info_from_xml(
-            f"data/raw/{filename}.xml", f"jsons/{filename}.json"
-        )
-        summary_list.append(summary)
-        items_list.extend(items)
+        try:
+            summary, items = extract_info_from_xml(
+                f"data/raw/{filename}.xml", f"jsons/{filename}.json"
+            )
+            summary_list.append(summary)
+            items_list.extend(items)
+        except:
+            pass
 
     """
         STEP 3
