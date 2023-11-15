@@ -10,6 +10,13 @@ Repository for GESTBD hackathon. The initial idea of this project is to fetch or
 
 The following workflow represents the usage of this application. It is devided on three main blocks, the first one is the gathering of information, with this we generate the data on json format to use [OpenRefine](https://openrefine.org/) software in order to connect via Ontologies and thus combine with information from other pages like [DBpedia](https://es.dbpedia.org/) in order to gather more information. The last step is to expose this information to a better search for the user.
 
+
+Steps:
+
+1. Use `python __init__.py` to generate **graph knowledge** and **jsons** that can be uploaded to mongodb.
+2. Open **Graphdb** to see the knowledge graph uploading the `.ttl` file.
+3. Use **Elastik Search** and upload **json** files to generate queries.
+
 ### Gather information
 
 The basic part of this step is the gathering of data from [BOE page](https://www.boe.es/index.php). To fulfill this firstly a connection is created to the web via this [URL](https://boe.es/diario_boe/xml.php?id=BOE-S). Once connected the next step is to download the bulletin which contains information about the resolutions of the *DD/MM/YYYY*. Once the bulletin is downloaded, all the metadata and other information about it is recollected and expressed on several jsons:
