@@ -49,3 +49,9 @@ Elasticsearch is a **NoSQL** technology that alows to store, search and analyze 
 There are more things that can be done with this database, and one is the **semantic search**, which we encourage readers to try and get it done.
 
 ![Elastik search part](./docs/workflow_elasticsearch.png)
+
+## Authors
+
+* [AlvaroTena](https://github.com/AlvaroTena)
+* [blitty-codes](https://github.com/blitty-codes)
+* [w-dan](https://github.com/w-dan/)
